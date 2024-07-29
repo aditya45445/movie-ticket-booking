@@ -1,4 +1,4 @@
-# Movie-Booking-System
+# Movie-Ticket-Booking-System
 Overview
 The Movie Ticket Booking System is a web-based application developed using Java. This system allows users to browse and book movie tickets online, offering a seamless and user-friendly experience. The project covers various aspects of software development including database management, backend development, and user interface design.
 
