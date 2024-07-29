@@ -18,10 +18,10 @@ CREATE TABLE tickets (
 );
 
 INSERT INTO movieLists (title, avaiable_seats) VALUES 
-('JURASSIC PARK', 100),
-('SCORPION', 50),
-('IRON MAN 2', 200),
-('MANJUMMEL BOYS', 100),
-('SCAM:1992', 150);
+('KALKI 2998 AD', 100),
+('Salaar: Part 1 – Ceasefire', 250),
+('K.G.F: Chapter 1', 200),
+('K.G.F: Chapter 2', 100),
+('MAHARAJA', 150);
 
 select * from tickets
